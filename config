@@ -1,0 +1,15 @@
+{
+	"Rate": {
+		"PrevReading": 2000.00,
+		"CurrentReading": 1000.00,
+		"GenerationCharge": 4.0860,
+		"TransmissionCharge": 0.7842,
+		"SupplyCharge": 0.5085,
+		"MeteringCharge": 0.3377,
+		"SystemLossCharge": 0.4058,
+		"DistributionChargeLV0": 1.0012,
+		"DistributionChargeLV1": 1.3183,
+		"DistributionChargeLV2": 1.6175,
+		"DistributionChargeLV3": 2.1387
+	}
+}
